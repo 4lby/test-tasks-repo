@@ -1,0 +1,17 @@
+# Служебные и локальные файлы
+PUBLISH.md
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Резервные копии редакторов
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Кэши
+.cache/
+__pycache__/
+*.log
